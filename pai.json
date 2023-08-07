@@ -1,6 +1,6 @@
 {
   "name": "PAI",
-  "minimum_force_version_android": "1.3.5",
+  "minimum_force_version_android": "1.4.2",
   "minimum_force_version_ios": "1.0.1",
   "show_ads_android": false,
   "show_ads_ios": false
